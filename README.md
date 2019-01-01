@@ -17,7 +17,7 @@ import numpy as np
 
 Example:
 
-     x = np.arrange(0,5,0.1)
+     x = np.arange(0,5,0.1)
      y = np.sin(x)
      plt.plot(x,y)
 
