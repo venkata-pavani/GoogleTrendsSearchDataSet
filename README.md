@@ -17,8 +17,8 @@ import numpy as np
 
 Example:
 
-x = np.arrange(0,5,0.1)
-y = np.sin(x)
-plt.plot(x,y)
+     x = np.arrange(0,5,0.1)
+     y = np.sin(x)
+     plt.plot(x,y)
 
 The above gives the sin curve in the x-axis range 0 to 5
