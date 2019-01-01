@@ -6,9 +6,10 @@
 
 Import the package: import matplotlib.pyplot as plt
 
-Function:
+###### Function:
 
-Pyplot: It is a module that provide interface for interactive plots
+###### Pyplot: 
+       It is a module that provide interface for interactive plots
 
 It can be extended to numpy
 
