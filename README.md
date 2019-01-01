@@ -1,6 +1,6 @@
 # Data_Visualiization_Python
 
-#### matplotlib --> for plotting graphs
+## matplotlib --> for plotting graphs
 
 ###### Important Things to remember in matplotlib
 
