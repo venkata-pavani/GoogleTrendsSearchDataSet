@@ -2,7 +2,7 @@
 
 #### matplotlib --> for plotting graphs
 
-######## Important Things to remember in matplotlib
+###### Important Things to remember in matplotlib
 
 Import the package: import matplotlib.pyplot as plt
 
