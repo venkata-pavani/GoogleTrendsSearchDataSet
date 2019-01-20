@@ -11,3 +11,8 @@ Split arrays or matrices into random train and test subsets
 
       sklearn.model_selection import train_test_split
 
+
+Syntax for Splitting
+
+     <function sklearn.model_selection._split.train_test_split(*arrays, **options)>
+
