@@ -16,4 +16,12 @@ Divides text into list of sentences. Used mailny for english language sentnences
 from nltk.stem.porter import PorterStemmer
 
 
+##### TFIDF Vectorization
+
+Giving importance to a word 
+
+###### formula:
+
+      TF-IDF(t,d,D) = TF(t,d) * IDF(t,D)
+
 
