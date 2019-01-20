@@ -10,5 +10,8 @@ Download it : nltk.download("punkt")
 
 Divides text into list of sentences. Used mailny for english language sentnences 
 
+##### Text Stemming Library
+from nltk.stem.porter import PorterStemmer
+
 
 
