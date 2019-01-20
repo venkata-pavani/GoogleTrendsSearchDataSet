@@ -1,4 +1,4 @@
-# Data_Visualiization_Python
+# Data Preprocessing Python
 
 ## matplotlib --> for plotting graphs
 
@@ -22,3 +22,11 @@ Example:
      plt.plot(x,y)
 
 The above gives the sin curve in the x-axis range 0 to 5
+
+Lets say u want to plot
+
+#### PieChart
+
+ax1.pie(sizes, explode=explode, labels=np.unique(datasetname["column name"]),autopct='%1.1f%%',shadow=True, startangle=90)
+
+you have to define each of ax1,explode here ax1 is *subplots()* function in matplotlib's plotly 
