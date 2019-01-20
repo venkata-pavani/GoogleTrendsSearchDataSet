@@ -23,5 +23,12 @@ Giving importance to a word
 ###### formula:
 
       TF-IDF(t,d,D) = TF(t,d) * IDF(t,D)
+      
+t = token         d = single document          D = number of documents
+
+
+      IDF(t) = log(N/count(t))
+N = documents
+* Here log is compression high range values into smaller range numbers
 
 
