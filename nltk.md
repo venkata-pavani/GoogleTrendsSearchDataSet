@@ -8,7 +8,7 @@ punkt :
 
 Download it : nltk.download("punkt")
 
-#### Punkt Setence Tokenizer:
+#### Punkt Sentence Tokenizer:
 
 Divides text into list of sentences. Used mailny for english language sentnences 
 
@@ -16,7 +16,7 @@ Divides text into list of sentences. Used mailny for english language sentnences
 from nltk.stem.porter import PorterStemmer
 
 
-#### TFIDF Vectorization
+#### TFIDF Vectorization :   Encoding the tokens
 
 Giving importance to a word 
 
