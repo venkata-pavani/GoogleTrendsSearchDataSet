@@ -33,5 +33,8 @@ Example
 
 you have to define each of ax1,explode here ax1 is *subplots()* function in matplotlib's plotly 
 
+To identify unique numbers we have to use numpy .
+
+###### Numpy --> Scientific Computing
 
 
