@@ -2,21 +2,21 @@
 
 
 #### nltk--> package Used for natural Language Processing
-###### Features
+### Features
 
 punkt :
 
 Download it : nltk.download("punkt")
 
-##### Punkt Setence Tokenizer:
+#### Punkt Setence Tokenizer:
 
 Divides text into list of sentences. Used mailny for english language sentnences 
 
-##### Text Stemming Library
+#### Text Stemming Library
 from nltk.stem.porter import PorterStemmer
 
 
-##### TFIDF Vectorization
+#### TFIDF Vectorization
 
 Giving importance to a word 
 
