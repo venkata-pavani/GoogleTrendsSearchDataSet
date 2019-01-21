@@ -13,7 +13,7 @@ Download it : nltk.download("punkt")
 Divides text into list of sentences. Used mailny for english language sentnences 
 
 #### Text Stemming Library
-from nltk.stem.porter import PorterStemmer
+     from  nltk.stem.porter  import PorterStemmer
 
 
 #### TFIDF Vectorization :   Encoding the tokens
@@ -30,5 +30,9 @@ t = token         d = single document          D = number of documents
       IDF(t) = log(N/count(t))
 N = documents
 * Here log is compression high range values into smaller range numbers
+
+###### package:
+
+      from *sklearn.feature_extraction.text* import *TfidfVectorizer*
 
 
